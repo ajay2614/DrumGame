@@ -3,7 +3,7 @@
 Hi, this is a drum developed using js, html, css.
 
 ## How to Play?
-Simply clone the project and run the index.html locally.
+Simply clone the project and run the index.html locally, now use the keyboard buttons to press the desired drum part.
 
 ## Preview:
 
